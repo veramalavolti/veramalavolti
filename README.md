@@ -2,7 +2,9 @@
 
 
 🎓 Data Analyst & Data Science Student @ Start2Impact University
+
 📍 Based in Rome, Italy
+
 💡 Passionate about data-driven insights, storytelling, and meaningful analysis.
 
 I explore the intersection between **data, culture, and design** — using analytics not only to interpret the world, but to transform it in socially and environmentally meaningful ways. 
