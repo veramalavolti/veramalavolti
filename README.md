@@ -9,7 +9,7 @@ My background in anthropology shapes a critical and human-centered approach to d
 
 ## 🔍 Featured Work
 
-### Data Science, Analytics & AI
+### 🧠 Data Science, Analytics & AI
 - **Machine Learning Advanced** — Experiments with decision trees, ensemble methods and regression models for complex data.
 - **Machine Learning** — Predictive modeling and performance evaluation using Python and scikit-learn.
 - **Advanced Analytics** — Exploratory and inferential analysis combining Python, Tableau and SQL.
@@ -19,13 +19,13 @@ My background in anthropology shapes a critical and human-centered approach to d
 - **Python & NumPy** — Numerical computing, data structuring, and model prototyping.
 - **SQL & Excel Advanced** — From structured queries to multidimensional reporting and scenario analysis.
 
-### Society & Culture
+### 🌍 Society & Culture
 - **Appartieni – Bari Città Aperta** — A collective urban project promoting local economies, proximity-based exchange, and community participation.
 - **Cross-Looking Residency** — Artistic and anthropological research in Armenia exploring identity, materiality, and landscape through photography and fieldwork.
 
 ---
 
-## Tech & Research Stack
+## 🧰 Tech & Research Stack
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `SQL` · `Tableau` · `Google Analytics 4`  
 `Figma` · `Excel` · `Data Visualization` · `Ethnography` · `UX Research`
@@ -40,7 +40,7 @@ Outside of work, I love photography, documentaries, sailing, and hiking with my 
 
 ---
 
-## Connect with Me!
+## 📫 Connect with Me!
 
 - ✉️ E-mail: veramalavolti@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/veramalavolti
