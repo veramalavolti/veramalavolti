@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Vera Malavolti
 
-🎓 **Cultural Anthropologist & Data Science, Analytics & AI Apprentice**
+🎓 Data Analyst & Data Science Student @ Start2Impact University
+📍 Based in Bologna, Italy — planning to move to Madrid 🇪🇸
+💡 Passionate about data-driven insights, storytelling, and meaningful analysis.
 
-I explore the intersection between **data, culture, and design** — using analytics not only to interpret the world, but to transform it in socially and environmentally meaningful ways.  
+I explore the intersection between **data, culture, and design** — using analytics not only to interpret the world, but to transform it in socially and environmentally meaningful ways. 
 My background in anthropology shapes a critical and human-centered approach to data, while my training in AI and UX helps me translate insights into actionable systems and experiences.
+My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 
 ---
 
