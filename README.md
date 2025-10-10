@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Vera Malavolti
 
-<!--
-**veramalavolti/veramalavolti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cultural Anthropologist & Data Science, Analytics & AI Apprentice**
 
-Here are some ideas to get you started:
+I explore the intersection between **data, culture, and design** — using analytics not only to interpret the world, but to transform it in socially and environmentally meaningful ways.  
+My background in anthropology shapes a critical and human-centered approach to data, while my training in AI and UX helps me translate insights into actionable systems and experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Featured Work
+
+### 🧠 Data Science, Analytics & AI
+- **Machine Learning Advanced** — Experiments with decision trees, ensemble methods and regression models for complex data.
+- **Machine Learning** — Predictive modeling and performance evaluation using Python and scikit-learn.
+- **Advanced Analytics** — Exploratory and inferential analysis combining Python, Tableau and SQL.
+- **Google Analytics 4** — Data storytelling and KPI monitoring for digital communication strategies.
+- **Data Visualization on Tableau** — Transforming complex datasets into intuitive and visually compelling dashboards.
+- **Stats Manipulation & Visualization** — Working with NumPy and Pandas for data transformation and insight generation.
+- **Python & NumPy** — Numerical computing, data structuring, and model prototyping.
+- **SQL & Excel Advanced** — From structured queries to multidimensional reporting and scenario analysis.
+
+### 🌍 Society & Culture
+- **Appartieni – Bari Città Aperta** — A collective urban project promoting local economies, proximity-based exchange, and community participation.
+- **Cross-Looking Residency** — Artistic and anthropological research in Armenia exploring identity, materiality, and landscape through photography and fieldwork.
+
+---
+
+## 🧰 Tech & Research Stack
+
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `SQL` · `Tableau` · `Google Analytics 4`  
+`Figma` · `Excel` · `Data Visualization` · `Ethnography` · `UX Research`
+
+---
+
+## 🌱 About Me
+
+I’m passionate about how **data can tell human stories** and reveal the invisible structures that shape our lives.  
+I thrive in **collaborative and interdisciplinary environments** where social impact, creativity, and technology meet.  
+Outside of work, I love photography, documentaries, sailing, and hiking with my dog.
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ E-mail: veramalavolti@gmail.com
+- 💼 Linkedin: www.linkedin.com/in/veramalavolti
+- 🌐 Portfolio: https://www.notion.so/Welcome-to-my-portfolio-I-m-Vera-245273738099800e882ffdd73ff63dce
+
+---
+
+⭐️ _“I believe in data that listens_
