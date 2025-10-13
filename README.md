@@ -16,7 +16,7 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 ## 🔍 Featured Projects 
 
 
-🎬 **Machine Learning Advanced** 
+🎬 **[Machine Learning Advanced](https://github.com/veramalavolti/Machine-Learning-Advanced)** 
 — Predictive modeling and performance evaluation using Python and scikit-learn.
 
 🧠 **[Machine Learning](https://github.com/veramalavolti/Machine-Learning-Advanced)** 
