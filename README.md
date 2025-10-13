@@ -29,7 +29,7 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 🎬 **Data Visualization (Tableau)**
 — Transforming complex datasets into intuitive and visually compelling dashboards.
 
-**Stats Manipulation & Visualization** 
+👗 **[Data Manipulation & Visualization]**(https://github.com/veramalavolti/Data-manipulation-and-visualization/blob/main/README.md)
 — Working with NumPy and Pandas for data transformation and insight generation.
 
 **Python & NumPy** 
