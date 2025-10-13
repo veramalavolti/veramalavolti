@@ -49,7 +49,7 @@ Outside of work, I love photography, documentaries, sailing, and hiking with my 
 
 - ✉️ E-mail: veramalavolti@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/veramalavolti
-- 🌐 Portfolio: https://www.notion.so/Welcome-to-my-portfolio-I-m-Vera-245273738099800e882ffdd73ff63dce
+- 🌐 Tech + humanistic portfolio: https://www.notion.so/Welcome-to-my-portfolio-I-m-Vera-245273738099800e882ffdd73ff63dce
 
 ---
 
