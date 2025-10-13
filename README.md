@@ -13,7 +13,7 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 
 ---
 
-## 🔍 Featured Projects 
+## 🔍 (Some) Featured Projects 
 
 
 🎬 **[Machine Learning Advanced](https://github.com/veramalavolti/Machine-Learning-Advanced)** 
