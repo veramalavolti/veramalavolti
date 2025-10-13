@@ -22,8 +22,6 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 🧠 **[Machine Learning](https://github.com/veramalavolti/Machine-Learning-Advanced)** 
 — Experiments with decision trees, ensemble methods and regression models for complex data.
 
-🧰 **Google Analytics 4** — Data storytelling and KPI monitoring for digital communication strategies.
-
 🎬 **[Data Visualization (Tableau)](https://github.com/veramalavolti/Data-Visualization-Tableau-)**
 — Transforming complex datasets into intuitive and visually compelling dashboards.
 
