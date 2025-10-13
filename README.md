@@ -20,7 +20,7 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 - **Machine Learning** — Predictive modeling and performance evaluation using Python and scikit-learn.
 - **Advanced Analytics** — Exploratory and inferential analysis combining Python, Tableau and SQL.
 - **Google Analytics 4** — Data storytelling and KPI monitoring for digital communication strategies.
-- - <a href="https://github.com/veramalavolti/Machine-Learning-Advanced" style="text-decoration:none; color:inherit;">Machine Learning Advanced</a> — Experiments with decision trees, ensemble methods and regression models for complex data.
+- **[Machine Learning Advanced](https://github.com/veramalavolti/Machine-Learning-Advanced)** — Experiments with decision trees, ensemble methods and regression models for complex data.
  — Transforming complex datasets into intuitive and visually compelling dashboards.
 - **Stats Manipulation & Visualization** — Working with NumPy and Pandas for data transformation and insight generation.
 - **Python & NumPy** — Numerical computing, data structuring, and model prototyping.
