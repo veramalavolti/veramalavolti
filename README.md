@@ -24,7 +24,7 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 
 🧰 **Google Analytics 4** — Data storytelling and KPI monitoring for digital communication strategies.
 
-🎬 **Data Visualization (Tableau)**
+🎬 **[Data Visualization (Tableau)](https://github.com/veramalavolti/Data-Visualization-Tableau-)**
 — Transforming complex datasets into intuitive and visually compelling dashboards.
 
 👗 **[Data Manipulation & Visualization](https://github.com/veramalavolti/Data-manipulation-and-visualization/blob/main/README.md)**
