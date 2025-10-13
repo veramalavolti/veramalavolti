@@ -13,7 +13,7 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 
 ---
 
-## 🔍 Featured Work
+## 🔍 Featured Projects 
 
 ### 🧠 Data Science, Analytics & AI
 - **Machine Learning Advanced** — Experiments with decision trees, ensemble methods and regression models for complex data.
@@ -24,12 +24,6 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 - **Stats Manipulation & Visualization** — Working with NumPy and Pandas for data transformation and insight generation.
 - **Python & NumPy** — Numerical computing, data structuring, and model prototyping.
 - **SQL & Excel Advanced** — From structured queries to multidimensional reporting and scenario analysis.
-
-### 🌍 Society & Culture
-- **Appartieni – Bari Città Aperta** — A collective urban project promoting local economies, proximity-based exchange, and community participation.
-- **Cross-Looking Residency** — Artistic and anthropological research in Armenia exploring identity, materiality, and landscape through photography and fieldwork.
-
----
 
 ## 🧰 Tech & Research Stack
 
