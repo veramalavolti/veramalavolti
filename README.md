@@ -22,21 +22,13 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 🧠 **[Machine Learning](https://github.com/veramalavolti/Machine-Learning-Advanced)** 
 — Experiments with decision trees, ensemble methods and regression models for complex data.
 
-**Advanced Analytics** — Exploratory and inferential analysis combining Python, Tableau and SQL.
-
-**Google Analytics 4** — Data storytelling and KPI monitoring for digital communication strategies.
+🧰 **Google Analytics 4** — Data storytelling and KPI monitoring for digital communication strategies.
 
 🎬 **Data Visualization (Tableau)**
 — Transforming complex datasets into intuitive and visually compelling dashboards.
 
 👗 **[Data Manipulation & Visualization](https://github.com/veramalavolti/Data-manipulation-and-visualization/blob/main/README.md)**
 — Working with NumPy and Pandas for data transformation and insight generation.
-
-**Python & NumPy** 
-— Numerical computing, data structuring, and model prototyping.
-
-**SQL & Excel Advanced** 
-— From structured queries to multidimensional reporting and scenario analysis.
 
 ## 🧰 Tech & Research Stack
 
