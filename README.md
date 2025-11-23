@@ -51,5 +51,3 @@ Outside of work, I love photography, documentaries, sailing, and hiking with my 
 - 🌐 Tech + humanistic portfolio: https://www.notion.so/Welcome-to-my-portfolio-I-m-Vera-245273738099800e882ffdd73ff63dce
 
 ---
-
-⭐️ _“I believe in data that listens_
