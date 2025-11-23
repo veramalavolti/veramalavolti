@@ -15,7 +15,9 @@ My tools: **Python (pandas, scikit-learn, matplotlib), SQL, and Tableau.**
 
 ## 🔍 (Some) Featured Projects 
 
-✈️ **[Machine Learning Final Project](https://github.com/veramalavolti/Machine-learning-Final-Project)** - A data-science project that uses the UCI Student Performance Dataset to analyze and model academic outcomes, predicting final student achievement to support targeted and equity-focused educational decisions.
+🧢 **[Data Analysis of a Second-Hand Marketplace](https://github.com/veramalavolti/Data-Analysis_Marketplace-di-abbigliamento-second-hand/blob/main/README.md)** - Analysis of a second-hand fashion marketplace to uncover user behavior, sales trends, product performance, and platform dynamics through a full SQL, Python, and Tableau data analysis pipeline.
+
+✈️ **[Machine Learning - Educational Project](https://github.com/veramalavolti/Machine-learning-Final-Project)** - A data-science project that uses the UCI Student Performance Dataset to analyze and model academic outcomes, predicting final student achievement to support targeted and equity-focused educational decisions.
 
 🎬 **[Machine Learning Advanced](https://github.com/veramalavolti/Machine-Learning-Advanced)** 
 — Predictive modeling and performance evaluation using Python and scikit-learn.
